@@ -43,5 +43,5 @@
 
 ####You can find me:
 
-1. [邮箱](ms15941699808@163.com)
+1. [mogu邮箱:ms15941699808@163.com](163邮箱)
 2. [MeituanRD2016 Org](https://github.com/MeituanRD2016/ToMeituanRd)
