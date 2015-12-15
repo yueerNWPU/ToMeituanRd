@@ -58,3 +58,4 @@
 
 1. [mogu邮箱:ms15941699808@163.com](163邮箱)
 2. [mushroomgithub](https://github.com/mushroomgithub)
+3. 测试pull request模式
